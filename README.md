@@ -1,2 +1,1 @@
-# kalkulatorinflacije
-Kalkulator inflacije
+"# js-kurs-kalkulator-inflacije" 
